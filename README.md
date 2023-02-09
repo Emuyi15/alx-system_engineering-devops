@@ -1,3 +1,1 @@
-#!/bin/bash
-ALX basic shell project
-
+Shell basic permission
