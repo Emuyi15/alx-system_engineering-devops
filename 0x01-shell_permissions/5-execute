@@ -1,2 +1,2 @@
 #!/bin/bash
-cdmod 700 hello
+cdmod u+x hello
